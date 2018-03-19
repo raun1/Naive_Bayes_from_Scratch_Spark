@@ -33,6 +33,7 @@ Step 6 > Generate the Vocab and the frequency per class for every unique word in
 Step 7 > Broadcast the above Vocab/frequency array
 Step 8 > Use the vocab/frequency array + the priors to compute the class of the new document
 
+Accuracy acheived 92% :(
 
 ```
 
